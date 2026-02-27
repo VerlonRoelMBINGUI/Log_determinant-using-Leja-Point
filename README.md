@@ -8,8 +8,7 @@ Estimate **logdet(Q)=tr(log(Q))**  of large sparse **SPD** matrices using:
 - **Hutch++** to estimate `tr(log(Q))` using only matrix–vector products
 
 This is useful in large-scale Gaussian models / GMRFs where log-determinants appear in likelihoods, numerical linear Algebra and Machine Learning.
-
-We used the data from University of Florida [1]
+- We used the data from University of Florida [1]
 ---
 
 ## Features
