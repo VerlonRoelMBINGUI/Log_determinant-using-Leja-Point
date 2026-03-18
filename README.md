@@ -27,10 +27,10 @@ This is useful in large-scale Gaussian models / GMRFs where log-determinants app
 
 ## Cite our paper
 
-@article{mbingui2026novel,
-  title={Novel technique based on L$\backslash$'eja Points Approximation for Log-determinant Estimation of Large matrices},
-  author={Mbingui, Verlon Roel and Tambue, Antoine and Karambal, Issa},
-  journal={arXiv preprint arXiv:2603.02207},
+@article{mbingui2026novel,\\
+  title={Novel technique based on L$\backslash$'eja Points Approximation for Log-determinant Estimation of Large matrices},\\
+  author={Mbingui, Verlon Roel and Tambue, Antoine and Karambal, Issa},\\
+  journal={arXiv preprint arXiv:2603.02207},\\
   year={2026}
 }
 
