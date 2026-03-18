@@ -27,7 +27,14 @@ This is useful in large-scale Gaussian models / GMRFs where log-determinants app
 
 ## Cite our paper
 
-Mbingui, V. R., Tambue, A., & Karambal, I. (2026). Novel technique based on L\'eja Points Approximation for Log-determinant Estimation of Large matrices. arXiv preprint arXiv:2603.02207.
+ <pre> 
+  @article{mbingui2026novel,
+  title={Novel technique based on L$\backslash$'eja Points Approximation for Log-determinant Estimation of Large matrices},
+  author={Mbingui, Verlon Roel and Tambue, Antoine and Karambal, Issa},
+  journal={arXiv preprint arXiv:2603.02207},
+  year={2026}
+}
+ </pre>
 
 ## References 
 [1] Davis, T.A., Hu, Y., 2011. The university of florida sparse matrix collection. ACM Transactions on Mathematical Software (TOMS) 38, 1–25.
