@@ -12,7 +12,7 @@ This is useful in large-scale Gaussian models / GMRFs where log-determinants app
 ---
 
 ## Features
-
+<pre>
 - Works with **sparse** matrices (`scipy.sparse`) and supports **matrix-free** `matvec` callables
 - Gershgorin-based spectral interval estimate `[λ_min, λ_max]`
 - PSD-safe shifting:
@@ -23,7 +23,7 @@ This is useful in large-scale Gaussian models / GMRFs where log-determinants app
   \[
   e_m = |d_m|\;\|w_m\|_2 \le \texttt{tol}
   \]
-
+</pre>
 
 ## Cite our paper
 
