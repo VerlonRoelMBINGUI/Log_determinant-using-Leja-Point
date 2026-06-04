@@ -45,3 +45,7 @@ Computational Geosciences 16, 323–334.
 [3] Deka, P.J., Einkemmer, L., 2022. Exponential integrators for resistive magnetohydrodynamics: Matrix-free leja interpolation and efficient
 adaptive time stepping. The Astrophysical Journal Supplement Series 259, 57
 
+[4] R. A. Meyer, C. Musco, C. Musco, and D. P. Woodruff, Hutch++: Optimal stochastic
+trace estimation, in Symposium on Simplicity in Algorithms (SOSA), SIAM, 2021, pp. 142–494
+
+
